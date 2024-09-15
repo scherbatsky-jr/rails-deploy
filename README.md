@@ -3,6 +3,9 @@
 by Sunil Prajapati
 
 ### Running the containers
+
+Update the name of containers, network and epsecially image name of app_web.
+
 Make a new docker network if necessary
 
 `docker network create <network_name>`
